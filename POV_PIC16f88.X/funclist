@@ -1,0 +1,24 @@
+___awdiv: CODE, 174 0 116
+_strcpy: CODE, 1120 0 40
+_delay: CODE, 396 0 99
+__stringtab: STRING, 1360 0 16
+__stringdata: STRING, 1376 0 9
+_getRevTime: CODE, 495 0 98
+_waitForRevStart: CODE, 1385 0 18
+_strlen: CODE, 1037 0 42
+_ConfigureOscillator: CODE, 1437 0 5
+_main: CODE, 19 0 155
+i1_strcpy: CODE, 1200 0 40
+_writeOutput: CODE, 1079 0 41
+__initialization: CODE, 994 0 40
+_ConfigureRegisters: CODE, 1273 0 32
+_findLetterInDict: CODE, 867 0 83
+_isr: CODE, 593 0 92
+_sprintf: CODE, 685 0 92
+_showCh: CODE, 290 0 106
+i1_strlen: CODE, 1160 0 40
+_changeOutStr: CODE, 1240 0 33
+___wmul: CODE, 950 0 44
+_ConfigurePorts: CODE, 1305 0 29
+___bmul: CODE, 1334 0 26
+Total: 1296
